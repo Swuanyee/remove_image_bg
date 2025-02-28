@@ -3,7 +3,7 @@
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/remove_image_bg.git
+   git clone git@github.com:Swuanyee/remove_image_bg.git
    cd remove_image_bg
    ```
 
