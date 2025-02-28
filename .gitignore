@@ -1,2 +1,5 @@
 #remove env folder
 env/
+
+#remove DS_Store
+.DS_Store
